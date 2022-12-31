@@ -1,6 +1,7 @@
 import './App.css';
 
 function App() {
+  
   return (
     <div className="App">
       <header className="App-header">
@@ -9,7 +10,7 @@ function App() {
           GitHub Codespaces <span className="heart">♥️</span> React
         </p>
         <p className="small">
-          Edit <code>src/App.js</code> and save to reload.
+          Edit Janek <code>src/App.js</code> and save to reload.
         </p>
         <p>
           <a
